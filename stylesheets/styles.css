@@ -6,6 +6,10 @@ body {
   font-weight:400;
 }
 
+* {
+    text-align: justify;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -216,6 +220,7 @@ footer {
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
+    text-align: justify;
   }
 
   header a small {
@@ -268,3 +273,4 @@ footer {
     color:#444;
   }
 }
+
